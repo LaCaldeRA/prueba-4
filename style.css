@@ -19,7 +19,7 @@ h2{
     color: rgb(60, 108, 173);
 }
 
-
+/* nav bar */
 
 nav{
     height: 80px;
@@ -134,7 +134,7 @@ label #cancel{
 
     
 
-
+/* cards */
 
 
 .grid{
@@ -200,3 +200,33 @@ label #cancel{
         text-align: center;
     }
 }
+
+
+
+
+
+.titulo{
+    color: white;
+    font-size: 40px;
+    width: 48%;
+    
+   
+}
+
+/* que hacemos */
+
+.container-que-hacemos{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #325E8E;
+}
+
+.imagen-quehacemos{
+    width: 38%;
+}
+
+.container-textos{
+    width: 48%;
+    color: white;
+}
+
